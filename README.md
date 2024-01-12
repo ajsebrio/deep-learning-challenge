@@ -7,8 +7,13 @@ Utilize machine learning and neural networks to create a binary classifier that 
 
 # Instructions:
 - See the following files for initial model:
--- `AlphabetSoupCharity.ipynb`
--- `AlphabetSoupCharity.h5` for HDF5 file.
+
+`AlphabetSoupCharity.ipynb`
+
+`AlphabetSoupCharity.h5` for HDF5 file.
+
 - See the following files for optomized model:
--- `AlphabetSoupCharity_Optimization.ipynb` (Report included)
--- `AlphabetSoupChartiy_Optimization.h5` for HDF5 file.
+
+`AlphabetSoupCharity_Optimization.ipynb` (Report included)
+
+`AlphabetSoupChartiy_Optimization.h5` for HDF5 file.
